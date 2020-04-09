@@ -16,7 +16,7 @@
     "lodash.chunk": "^4.2.0",
     "lodash.flatten": "^4.4.0",
     "request": "^2.88.0",
-    "request-promise": "^4.2.4",
+    "request-promise": "^4.2.5",
     "semaphore": "^1.1.0"
   }
 }
