@@ -12,7 +12,7 @@
   "dependencies": {
     "async-retry": "^1.2.3",
     "cli-progress": "^3.3.1",
-    "excel4node": "^1.7.2",
+    "excel4node": "^1.8.0",
     "lodash.chunk": "^4.2.0",
     "lodash.flatten": "^4.4.0",
     "request": "^2.88.0",
