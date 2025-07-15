@@ -15,8 +15,8 @@
     "excel4node": "^1.7.2",
     "lodash.chunk": "^4.2.0",
     "lodash.flatten": "^4.4.0",
-    "request": "^2.88.0",
-    "request-promise": "^4.2.4",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6",
     "semaphore": "^1.1.0"
   }
 }
